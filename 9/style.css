@@ -1,0 +1,31 @@
+.contenedor-principal {
+  display: flex;
+  background-color: red;
+  
+}
+
+.contenido {
+  background-color: blue;
+  width: 90%;
+}
+
+}
+header {
+  background-color: yellow;
+  height: 230px;
+}
+
+section {
+  background-color: green;
+  height: 50px;
+}
+
+footer {
+  background-color: yellow;
+  height: 100px;
+}
+
+aside {
+  background-color: magenta;
+  width: 20%;
+}

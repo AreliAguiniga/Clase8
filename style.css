@@ -1,0 +1,45 @@
+.links-navegacion {
+  display: flex;
+  list-style-type: none;
+  justify-content: flex-end;
+  box-shadow: 0 0 29px peru;
+}
+
+.links-navegacion li {
+  margin: 20px;
+}
+
+header {
+  background: beige;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+section {
+  background-color: bisque;
+  width: 80%;
+}
+
+.principal {
+  display: flex;
+}
+
+aside {
+  background-color: skyblue;
+  width: 20%;
+  height: 500px;
+}
+
+article {
+  width: 300px;
+  background-color: beige;
+  margin: 20px;
+}
+
+footer {
+  background: cornsilk;
+  height: 200px;
+}
